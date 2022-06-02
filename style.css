@@ -665,7 +665,7 @@ p {
     font-size: 14px;
 }
 
-.toto {
+p .toto {
     font-size: 16px;
 }
 
